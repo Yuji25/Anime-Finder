@@ -38,7 +38,7 @@ A modern, responsive web application for discovering, tracking, and organizing y
 
 
 ## 🔗 Deployment
-[Experience yourself !](https://www.google.co.in/)
+[Experience yourself!](https://anime-finder-nu.vercel.app/)
 
 ## 🚀 Getting Started
 
